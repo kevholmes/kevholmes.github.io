@@ -1,18 +1,17 @@
 # Site settings
-title: Daktilo
+title: Kevin Holmes
 description: >
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ A website about things both personal, and work related.
+ I work in IT and enjoy strength training, bicycling, motorcycling and snowmobiling.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://hitchhiker.ma" # the base hostname & protocol for your site
+url: "http://kevholmes.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: Motaquillah Maddane
-  googleplus: https://www.google.com/+MotaquillahMaddane
-  github: kronik3r
-  twitter: electrik_frog
+  fullname: Kevin Holmes
+  googleplus: https://google.com/+KevinHolmesohlala 
+  github: kevholmes
+  twitter: ElyClover 
   # disqus: your_disqus_username
 
 # google_analytics: 'UA-XXXXXXXX-X'

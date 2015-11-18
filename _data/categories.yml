@@ -1,5 +1,14 @@
-- slug: design
-  name: Design
+- slug: diet 
+  name: Diet
+
+- slug: exercise
+  name: Exercise
+
+- slug: cycling
+  name: Cycling
+
+- slug: system-administration
+  name: System Administration 
 
 - slug: tools
   name: Tools
